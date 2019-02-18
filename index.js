@@ -21,3 +21,8 @@ function inc(n) {
 function dec(n){
   return n--;
 }
+
+function makeInt(n) {
+  var newInt = parseInt(n, 10);
+  
+}
